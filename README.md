@@ -1,22 +1,26 @@
 # Learn Git Commands
 
-## Clone
+## Clone 
 git clone 'Repository URL'
 
-## New Branch
+## New Branch 
 git branch 'branch name'
 git checkout 'branch name you just created'
 
-## Commit
+## New Branch 
+git branch 'branch name'
+git checkout 'branch name you just created'
+
+## Commit 
 git commit -m "Commands about what you did on the file"
 
-## Pull
+## Pull 
 git pull
 
-## Push
+## Push 
 git push origin 'branchName'
 (or)
 git push -u origin master
 
-## To see the Change
+## To display current Edit status
 git status
