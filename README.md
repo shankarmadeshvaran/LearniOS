@@ -17,3 +17,6 @@ git pull
 git push origin 'branchName'
 (or)
 git push -u origin master
+
+## To see the Change
+git status
